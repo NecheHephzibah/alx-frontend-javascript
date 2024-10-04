@@ -1,0 +1,1 @@
+This project is all about the ES6 classes. ES6 classes provide a cleaner, more intuitive syntax for creating object-oriented structures in JavaScript. They're essentially syntactic sugar over JavaScript's existing prototype-based inheritance but offer a more familiar syntax for developers coming from other object-oriented languages.

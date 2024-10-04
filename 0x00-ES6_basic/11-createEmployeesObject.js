@@ -3,5 +3,5 @@ export default function createEmployeeObject(departmentName, employees) {
     [departmentName]: [
       ...employees,
     ],
-  }
+  };
 }

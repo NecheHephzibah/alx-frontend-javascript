@@ -1,4 +1,4 @@
-import ClassRoom from './0-classroom.js'
+import ClassRoom from './0-classroom';
 
 /**
  * This file imports the class {@link ClassRoom} from 0-classroom.js
